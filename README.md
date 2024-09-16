@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ajay potfode
-- 👀 I’m interested to Creating something new things 
+- 👀 I’m interested to Creating some new things 
 - 🌱 I’m currently learned React js 
 - 💞️ I’m looking to work in Corporate world
 - 📫 contact me on ajaypotfode3277@gmail.com
